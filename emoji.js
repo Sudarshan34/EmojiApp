@@ -43,7 +43,7 @@ const searchemoji = () => {
         emojiDiv.appendChild(emoji);
        
         emojiDiv.appendChild(description);
-        emojiDiv.appendChild(category);
+        // emojiDiv.appendChild(category);
         emojiDiv.appendChild(hori);
         container.appendChild(emojiDiv);
     });
